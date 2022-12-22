@@ -1,0 +1,15 @@
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\bin\Debug\net7.0\ATM_Computer.exe
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\bin\Debug\net7.0\ATM_Computer.deps.json
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\bin\Debug\net7.0\ATM_Computer.runtimeconfig.json
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\bin\Debug\net7.0\ATM_Computer.dll
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\bin\Debug\net7.0\ATM_Computer.pdb
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ATM_Computer.csproj.AssemblyReference.cache
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ATM_Computer.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ATM_Computer.AssemblyInfoInputs.cache
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ATM_Computer.AssemblyInfo.cs
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ATM_Computer.csproj.CoreCompileInputs.cache
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ATM_Computer.dll
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\refint\ATM_Computer.dll
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ATM_Computer.pdb
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ATM_Computer.genruntimeconfig.cache
+F:\visualstudio\rep\ATM_Computer\ATM_Computer\obj\Debug\net7.0\ref\ATM_Computer.dll
